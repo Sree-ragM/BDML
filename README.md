@@ -69,7 +69,6 @@ We used the **drug200.csv** dataset, containing 200 patient records. This datase
 * [Sreerag M](https://github.com/Sree-ragM)
 * [Neeraj Krishna](https://github.com/theneerajkrishna)
 
----
 
 ## 📌 License
 
