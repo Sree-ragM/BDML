@@ -64,16 +64,18 @@ We used the **drug200.csv** dataset, containing 200 patient records. This datase
 
 [Drug Classification Dataset on Kaggle](https://www.kaggle.com/datasets/prathamtripathi/drug-classification/data)
 
-## 📌 License
-
-This project is for **educational and research** purposes only.
-
----
-
 ## 👥 Contributors
 
 * [Sreerag M](https://github.com/Sree-ragM)
 * [Neeraj Krishna](https://github.com/theneerajkrishna)
 
 ---
+
+## 📌 License
+
+This project is for **educational and research** purposes only.
+
+---
+
+
 
