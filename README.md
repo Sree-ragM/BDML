@@ -46,7 +46,7 @@ We used the **drug200.csv** dataset, containing 200 patient records. This datase
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/drug-prescription-ml.git
+   git clone https://github.com/Sree-ragM/BDML.git
    ```
 2. Install required libraries:
 
