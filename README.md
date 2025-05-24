@@ -6,30 +6,29 @@ The objective of this project is to develop and evaluate machine learning models
 
 ## 📊 Dataset
 
-We used the **drug200.csv** dataset, which contains 200 records. This dataset is publicly available on [Kaggle](https://www.kaggle.com/datasets/prathamtripathi/drug-classification/data) and includes the following patient features:
+We used the **drug200.csv** dataset, containing 200 patient records. This dataset is publicly available on [Kaggle](https://www.kaggle.com/datasets/prathamtripathi/drug-classification/data). The dataset features include:
 
 * **Age**
 * **Sex**
 * **Blood Pressure (BP)**
 * **Cholesterol**
 * **Na\_to\_K (Sodium to Potassium ratio)**
-* **Drug (Target variable)**
+* **Drug** (Target variable)
 
 ## 🛠️ Technologies Used
 
 * **Python**
-* **Pandas**: For data preprocessing and manipulation.
-* **Scikit-learn (sklearn)**: For implementing machine learning models and performance evaluation.
-* **Matplotlib / Seaborn** *(optional)*: For visualizations.
+* **Pandas**: For data preprocessing and manipulation
+* **Scikit-learn (sklearn)**: For implementing machine learning models and performance evaluation
 
 ## 🤖 Machine Learning Models Implemented
 
-* **Decision Tree**
-* **K-Nearest Neighbors (KNN)**
-* **Random Forest**
-* **Support Vector Machine (SVM)**
+* Decision Tree
+* K-Nearest Neighbors (KNN)
+* Random Forest
+* Support Vector Machine (SVM)
 
-Each model was evaluated based on:
+### 📈 Evaluation Metrics
 
 * Accuracy
 * Precision (Weighted & Macro)
@@ -38,34 +37,43 @@ Each model was evaluated based on:
 
 ## 🧠 Summary of Results
 
-Decision Tree and Random Forest achieved perfect classification on this dataset, while KNN and SVM showed good performance but were slightly less accurate.
+* **Decision Tree** and **Random Forest** models achieved perfect classification.
+* **KNN** and **SVM** showed good performance, with slightly lower accuracy than tree-based models.
 
-## 📌 How to Run
+## 🚀 How to Run
 
-1. Clone the repository.
-2. Install the required libraries:
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Sree-ragM/BDML.git
+   ```
+2. Install required libraries:
 
    ```bash
    pip install -r requirements.txt
    ```
-3. Open the `.ipynb` file and run all cells sequentially.
+3. Open the `ML.ipynb` Jupyter notebook and run all cells sequentially.
 
-## 📁 Files
+## 📁 Project Files
 
-* `drug200.csv`: The dataset.
-* `ML.ipynb`: The notebook containing preprocessing, model training, and evaluation code.
-* `README.md`: Project documentation.
+* `drug200.csv`: Dataset
+* `ML.ipynb`: Main notebook for preprocessing, training, and evaluation
+* `README.md`: Project documentation
 
 ## 🔗 Dataset Source
 
 [Drug Classification Dataset on Kaggle](https://www.kaggle.com/datasets/prathamtripathi/drug-classification/data)
 
-👥 Contributors
-
-    Sreerag M
-
-    Neeraj Krishna R
-
 ## 📌 License
 
-This project is for educational and research purposes only.
+This project is for **educational and research** purposes only.
+
+---
+
+## 👥 Contributors
+
+* [Sreerag M](https://github.com/Sree-ragM)
+* [Neeraj Krishna](https://github.com/theneerajkrishna)
+
+---
+
