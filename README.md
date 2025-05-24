@@ -20,7 +20,6 @@ We used the **drug200.csv** dataset, containing 200 patient records. This datase
 * **Python**
 * **Pandas**: For data preprocessing and manipulation
 * **Scikit-learn (sklearn)**: For implementing machine learning models and performance evaluation
-* **Matplotlib / Seaborn** *(optional)*: For visualizations
 
 ## 🤖 Machine Learning Models Implemented
 
