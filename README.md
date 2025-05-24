@@ -60,6 +60,12 @@ Decision Tree and Random Forest achieved perfect classification on this dataset,
 
 [Drug Classification Dataset on Kaggle](https://www.kaggle.com/datasets/prathamtripathi/drug-classification/data)
 
+👥 Contributors
+
+    Sreerag M
+
+    Neeraj Krishna R
+
 ## 📌 License
 
 This project is for educational and research purposes only.
